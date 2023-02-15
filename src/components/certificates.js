@@ -25,8 +25,10 @@ function Certificates(props) {
     return (
         <div>
             <section id="certificates" className="parallax-section">
-                <div className="container">
-                    <div className="row">
+                    <div className="row g-0">
+                    <div className="col-md-6 col-sm-6">
+                            <div className="certificates-img"></div>
+                        </div>
                         <div className="col-md-6 col-sm-6">
                             <div id="certificatesInfo" className="color-white education-thumb">
                                 <div className="wow fadeInUp section-title" data-wow-delay="0.8s">
@@ -36,11 +38,7 @@ function Certificates(props) {
                                 {certificates}
                             </div>
                         </div>
-                        <div className="col-md-6 col-sm-6">
-                            <div className="background-image education-img"></div>
-                        </div>
                     </div>
-                </div>
             </section>
         </div>
     )

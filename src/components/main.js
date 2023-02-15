@@ -2,6 +2,7 @@ import { getPersonInfo } from '../routes/routes.js';
 import About from './aboutAndService.js';
 import Certificates from './certificates.js';
 import Education from './education.js';
+import Experiences from './experiences.js';
 import Home from './home.js';
 import Example from './navbar.js';
 
@@ -15,6 +16,7 @@ function Main() {
             <About getPersonInfo={getPersonInfoo} />
             <Education getPersonInfo={getPersonInfoo} />
             <Certificates getPersonInfo={getPersonInfoo} />
+            <Experiences getPersonInfo={getPersonInfoo} />
         </div>
     )
 }
