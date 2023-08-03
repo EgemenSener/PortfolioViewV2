@@ -18,18 +18,31 @@ function Example(props) {
     <div>
       <Navbar color="faded" light>
         <NavbarBrand href="/" className="me-auto">
-          reactstrap
+          Egemen's Portfolio
         </NavbarBrand>
         <NavbarToggler onClick={toggleNavbar} className="me-2" />
         <Collapse isOpen={!collapsed} navbar>
           <Nav navbar>
             <NavItem>
-              <NavLink href="/components/">Components</NavLink>
+              <NavLink href="#home">Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="https://github.com/EgemenSener">
-                GitHub
-              </NavLink>
+              <NavLink href="#about">About</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="#service">Service</NavLink>
+            </NavItem>
+            <NavItem>             
+              <NavLink href="#education">Education</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="#certificates">Certificates</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="#experience">Experiences</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="#footer">Contact</NavLink>
             </NavItem>
           </Nav>
         </Collapse>

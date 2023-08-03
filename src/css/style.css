@@ -650,7 +650,11 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-    padding: 140px 0px;
+    padding-top: 100px;
+}
+
+.footer .socialIcons {
+  text-align: center;
 }
 
 .footer .btn-social-icon {
