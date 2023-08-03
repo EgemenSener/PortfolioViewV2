@@ -10,7 +10,7 @@ function Certificates(props) {
         certificates.push(
             <div className="wow fadeInUp color-white media" data-wow-delay={delay + "s"} key={props.getPersonInfo.certificates}>
                 <div className="media-object media-left">
-                    <img src={conf.SERVER_URL + props.getPersonInfo.certificates[i].picture} width="50" height="50" />
+                    <img src={conf.SERVER_URL + props.getPersonInfo.certificates[i].picture} alt="" width="50" height="50" />
                 </div>
                 <div className="media-body">
                     <h3 className="media-heading"><strong>{props.getPersonInfo.certificates[i].title}</strong></h3>

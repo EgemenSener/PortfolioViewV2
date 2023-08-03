@@ -1,4 +1,3 @@
-import { getPersonInfo } from '../routes/routes.js';
 import { calculate_age, date_formatter } from '../functions/functions.js';
 
 //Home and description about my life

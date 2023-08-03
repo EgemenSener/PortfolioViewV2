@@ -10,7 +10,7 @@ function Education(props) {
 
             <div className="wow fadeInUp color-white media" data-wow-delay={delay} key={props.getPersonInfo.education}>
                 <div className="media-object media-left">
-                    <img src={conf.SERVER_URL + props.getPersonInfo.education[i].picture} width="50" height="50" />
+                    <img src={conf.SERVER_URL + props.getPersonInfo.education[i].picture} alt="" width="50" height="50" />
                 </div>
                 <div className="media-body">
                     <h3 className="media-heading"><strong>{props.getPersonInfo.education[i].title}</strong> {props.getPersonInfo.education[i].country}</h3>

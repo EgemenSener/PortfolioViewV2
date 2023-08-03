@@ -7,16 +7,21 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
+    "bootstrap-social": "^5.1.1",
+    "cross-env": "^7.0.3",
     "faker": "^6.6.6",
+    "font-awesome": "^4.7.0",
+    "mdb-react-ui-kit": "5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-image": "^4.0.3",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
     "reactstrap": "^9.1.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "craco start",
+    "start": "cross-env BROWSER=chrome craco start",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
