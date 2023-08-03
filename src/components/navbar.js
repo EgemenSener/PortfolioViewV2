@@ -15,7 +15,7 @@ function Example(props) {
   const toggleNavbar = () => setCollapsed(!collapsed);
 
   return (
-    <div>
+    <section id='navbar'>
       <Navbar color="faded" light>
         <NavbarBrand href="/" className="me-auto">
           Egemen's Portfolio
@@ -47,7 +47,7 @@ function Example(props) {
           </Nav>
         </Collapse>
       </Navbar>
-    </div>
+    </section>
   );
 }
 

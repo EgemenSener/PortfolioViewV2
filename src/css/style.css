@@ -147,7 +147,7 @@ footer {
 
 #experience,
 #education {
-  background: #000a63;
+  background: #0f001b;
 }
 
 .background-image {
@@ -273,6 +273,14 @@ a:hover, a:active, a:focus {
 /*---------------------------------------
     Navigation section              
 -----------------------------------------*/
+
+.navbar {
+    background: rgb(255, 255, 255);
+    z-index: 10000;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
 
 .custom-navbar {
     margin-bottom: 0;
