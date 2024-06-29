@@ -21,7 +21,7 @@ const Footer = (props) => {
                 </div>
                 <div className="socialIcons">
                     <div>
-                        <p>© Copyright 2023 Egemen ŞENER</p>
+                        <p>© Copyright {new Date().getFullYear()} Egemen ŞENER</p>
                     </div>
                 </div>
             </div>
