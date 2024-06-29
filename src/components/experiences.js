@@ -1,5 +1,4 @@
 import { date_formatter } from '../functions/functions.js';
-import conf from '../conf.json';
 
 function Experiences(props) {
     const experiences = []
@@ -9,7 +8,7 @@ function Experiences(props) {
         experiences.push(
             <div className="wow fadeInUp color-white media" data-wow-delay={delay + "s"} key={i}>
                 <div className="media-object media-left">
-                    <img src={conf.SERVER_URL + props.getPersonInfo.experience[i].picture} alt="" width="50" height="50" />
+                    <img src={process.env.PUBLIC_URL + props.getPersonInfo.experience[i].picture} alt="" width="50" height="50" />
                 </div>
                 <div className="media-body">
                     <h3 className="media-heading"><strong>{props.getPersonInfo.experience[i].title}</strong> {props.getPersonInfo.experience[i].country}</h3>

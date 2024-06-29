@@ -367,7 +367,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/home-img.png') no-repeat;
+  background: url('../../public/images/home-img.png') no-repeat;
   background-size: cover;
   background-position: 80% 80%;
   width: 100%;
@@ -402,7 +402,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+    background: url('../../public/images/about-img.jpg') no-repeat;
     background-size: cover;
     background-position: 80% 80%;
     width: 100%;
@@ -464,7 +464,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+  background: url('../../public/images/experience-img.jpg') no-repeat;
   background-size: cover;
   background-position: 80% 80%;
   width: 100%;
@@ -495,7 +495,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
+  background: url('../../public/images/education-img.jpg') no-repeat;
   background-size: cover;
   background-position: 80% 80%;
   width: 100%;
@@ -526,7 +526,7 @@ a:hover, a:active, a:focus {
 }
 
 #certificates .certificates-img {
-    background: url('../images/certificates-img.jpg') no-repeat;
+    background: url('../../public/images/certificates-img.jpg') no-repeat;
     background-size: cover;
     background-position: 50%;
     width: 100%;
@@ -556,7 +556,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #quotes {
-    background: url('../images/quotes-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('../../public/images/quotes-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -599,7 +599,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact .contact-img {
-  background: url('../images/contact-img.jpg') no-repeat;
+  background: url('../../public/images/contact-img.jpg') no-repeat;
   min-height: 75vh;
 }
 

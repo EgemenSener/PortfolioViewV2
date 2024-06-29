@@ -1,0 +1,145 @@
+{
+    "_id": "63d5698470f062ca9f78557a",
+    "title": "Computer Engineer / Software Developer",
+    "name": "Egemen",
+    "surname": "Şener",
+    "email": "egemensener98@gmail.com",
+    "bornDate": "1998,11,16",
+    "profilePhoto": "/images/profil.jpg",
+    "city": "Ankara",
+    "from": "Turkey",
+    "Pictures": [],
+    "skills": [
+        {
+            "Spring": "80%"
+        },
+        {
+            "Hibernate": "80%"
+        },
+        {
+            "Java": "90%"
+        },
+        {
+            "WPF": "40%"
+        },
+        {
+            "React": "60%"
+        },
+        {
+            "Bootstrap4": "70%"
+        },
+        {
+            "Node": "70%"
+        },
+        {
+            "CSS": "50%"
+        },
+        {
+            "Git": "90%"
+        },
+        {
+            "SOAP": "90%"
+        },
+        {
+            "javascript": "80%"
+        },
+        {
+            "jquery": "60%"
+        },
+        {
+            "C": "50%"
+        },
+        {
+            "Html": "90%"
+        }
+    ],
+    "education": [
+        {
+            "title": "Atilim University",
+            "endDate": "2021,07,07",
+            "startDate": "2016,09,15",
+            "description": "Bachelor of Engineering in Computer Engineering",
+            "country": "Turkey",
+            "picture": "/images/atilimlogo.jpg",
+            "_id": "6318da10d6954acaf83389ad",
+            "updatedAt": "2024-01-07T15:56:35.085Z",
+            "createdAt": "2024-01-07T15:56:35.085Z"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Cybersoft",
+            "title2": "Full-time Back-end (Java) Developer",
+            "endDate": "Present",
+            "startDate": "2022,06,06",
+            "description": "I am a results-driven Software Engineer at CyberSoft, contributing to the success of the REM/KEP Project (Registered Email System/Kayıtlı Elektronik Posta). In this role, I have demonstrated proficiency in developing robust and scalable solutions, leveraging my expertise in Hibernate, Spring, and Java technologies. Key Achievements: Vue.js Front-end Development: Spearheaded the development of intuitive and user-friendly front-end interfaces for the KEP sales application. Utilized Vue.js to create dynamic and responsive pages, enhancing the overall user experience and contributing to increased sales efficiency.REM/KEP Project Maintenance: Played a pivotal role in the maintenance and evolution of the REM/KEP Project, ensuring its continual optimization, reliability, and adherence to industry standards. This involved troubleshooting, debugging, and implementing enhancements to meet evolving business requirements.Java and Spring Expertise: Leveraged my deep understanding of Java and Spring frameworks to streamline and enhance the functionality of the REM/KEP Project. Implemented best practices and design patterns to ensure a robust and scalable architecture. Collaborative Problem-Solving: Actively collaborated with cross-functional teams, including project managers, QA engineers, and business stakeholders, fostering a collaborative environment that accelerated project delivery and exceeded client expectations. Agile Development: Embraced Agile methodologies, contributing to the project's adaptability and responsiveness to changing requirements. Successfully delivered incremental updates and features within tight deadlines. I am passionate about creating innovative solutions that drive business success. My commitment to excellence, coupled with a proactive approach to problem-solving, has been instrumental in the ongoing success of the REM/KEP Project at CyberSoft. Connect with me to explore how my skills can contribute to your organization's success or discuss potential collaboration opportunities.",
+            "country": "Turkey",
+            "picture": "/images/cybersoftlogo.jpg",
+            "_id": "6318da10d6954acaf83389ae",
+            "updatedAt": "2024-01-07T15:56:35.085Z",
+            "createdAt": "2024-01-07T15:56:35.085Z"
+        },
+        {
+            "title": "Poznan University of Technology",
+            "title2": "Front-end Developer Intern",
+            "title3": "Erasmus + Program",
+            "endDate": "2022,01,07",
+            "startDate": "2021,09,06",
+            "description": "I developed web application's front-end part and I working on nucleotides using by JavaScript, fetch Api, HTML, CSS, Docker",
+            "country": "Poland",
+            "picture": "/images/politechnikalogo.jpg",
+            "_id": "6318da10d6954acaf83389af",
+            "updatedAt": "2024-01-07T15:56:35.085Z",
+            "createdAt": "2024-01-07T15:56:35.085Z"
+        },
+        {
+            "title": "METU SpechtLab",
+            "title2": "Graphical User Interface Builder",
+            "endDate": "2021,07,01",
+            "startDate": "2021,01,01",
+            "description": "I developed the windows application of the image processing company and worked on databases. I worked on developing a wpf application for the company using visual studio",
+            "country": "Turkey",
+            "picture": "/images/spechtlablogo.png",
+            "_id": "6318da10d6954acaf83389b0",
+            "updatedAt": "2024-01-07T15:56:35.085Z",
+            "createdAt": "2024-01-07T15:56:35.085Z"
+        },
+        {
+            "title": "Ankara University Olle R&D Software",
+            "title2": "Mobile App Intern",
+            "endDate": "2019,08,01",
+            "startDate": "2019,07,01",
+            "description": "Mobile app design with Android Studio",
+            "country": "Turkey",
+            "picture": "/images/ollelogo.jpg",
+            "_id": "6318da10d6954acaf83389b1",
+            "updatedAt": "2024-01-07T15:56:35.085Z",
+            "createdAt": "2024-01-07T15:56:35.085Z"
+        }
+    ],
+    "certificates": [
+        {
+            "title": "The Hong Kong University of Science and Technology",
+            "endDate": "2022,04,20",
+            "startDate": "2022,01,20",
+            "description": "Full-Stack Web Development with React Specialization",
+            "picture": "/images/hongkonglogo.png",
+            "_id": "6318da10d6954acaf83389ac",
+            "updatedAt": "2024-01-07T15:56:35.085Z",
+            "createdAt": "2024-01-07T15:56:35.085Z"
+        }
+    ],
+    "createdAt": "2023-01-28T18:29:24.012Z",
+    "updatedAt": "2024-01-07T15:56:35.085Z",
+    "__v": 0,
+    "personalInfo": "I like chatting with my colleagues, people in my normal life, sharing what I have learned, being social. I like to travel and research different cultures and countries, especially Europe and Anatolia. I am interested in world history and I like to research historical events, civilizations, epics, heroes, mythological events and human history and watch movies and TV series related to that subject.",
+    "personalInfo2": "I play the guitar and I am interested in music, I do sports, especially the gym, I care about my personal development, I eat healthy, mental health comes first for me, I have made exercises such as meditation, mindfulness, wim hof breathing method routine in my life.",
+    "field": [
+        {
+            "Web App": "Web applications are delivered on the World Wide Web to users with an active network connection."
+        },
+        {
+            "Coding": "Computer programming, the process of creating and maintaining the source code of computer programs."
+        }
+    ]
+}
