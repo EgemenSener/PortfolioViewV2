@@ -361,6 +361,7 @@ a:hover, a:active, a:focus {
 
 #home .col-md-6 {
   background: #f1e2d7;
+  margin-top: 60px;
 /* light blue color: #c3eafd; */
   padding-right: 0;
   padding-left: 0;
